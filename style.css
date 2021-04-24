@@ -36,6 +36,12 @@ body {
   background-position: left;
 }
 
+.page-header h3 {
+  color: #288be6;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 20px;
+}
+
 .header-email {
   padding-left: 50px;
   background-image: url("img/icon-email-header.svg");
@@ -47,7 +53,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 110px;
+  margin-bottom: 300px;
 }
 
 .hero-image .container {
@@ -70,7 +76,7 @@ body {
 }
 
 .intro {
-  margin: 0 0 120px;
+  margin: 0 0 90px;
 }
 
 .subheading {
@@ -136,7 +142,7 @@ body {
 }
 
 .portfolio {
-  margin: 0 0 120px;
+  margin: 0 0 90px;
 }
 
 .projects {
